@@ -1,3 +1,4 @@
 POR-HACER
 logs/*
+!logs/.gitkeep
 config.json
